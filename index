@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Peta Persebaran Coffee Shop Fore Jakarta</title>
+</head>
+<body style="text-align:center; font-family:Arial">
+
+  <h1>Peta Persebaran Coffee Shop Fore di Jakarta</h1>
+  <p>
+    Peta interaktif berbasis Sistem Informasi Geografis (SIG)
+    yang menampilkan persebaran outlet Coffee Shop Fore.
+  </p>
+
+  <a href="peta.html" style="font-size:18px;">
+    👉 Buka Peta Interaktif
+  </a>
+
+</body>
+</html>
